@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi
+这里是沈润佳，一只计算机科学与技术专业辅修心理学在读傻狗。
+会一点C,C++,python，还会一点点原型设计。
+喜欢机器学习算法，喜欢开发技术，希望大佬们不要嫌我菜，可以带带我。
+qq邮箱：2513186673，欢迎大家和我交流呀！
+👋
 
 <!--
 **qtzj/qtzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
